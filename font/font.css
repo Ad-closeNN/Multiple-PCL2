@@ -1,6 +1,6 @@
 @font-face {
   font-family: HarmonyOSSansSCM;
-    src: url(HarmonyOS_Sans_SC_Medium.woff2) format('woff2'),
+    src: url(https://jsd.cdn.zzko.cn/gh/Ad-closeNN/Multiple-PCL2@latest/font/HarmonyOS_Sans_SC_Medium.woff2) format('woff2'),
   }
 body {
     font-family: HarmonyOSSansSCM, HarmonyOS Sans SC Medium, HarmonyOS Sans SC Regluar, HarmonyOS Sans, MiSans, OPPO Sans, Microsoft YaHei Ui, 微软雅黑; /* 如果无法加载自定义字体，则使用备用字体 */
